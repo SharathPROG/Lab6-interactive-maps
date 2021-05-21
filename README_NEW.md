@@ -6,3 +6,4 @@ We will be using Folium library which builds on a common web mapping javascript 
 We will use three files , one is starbucksInLACounty.csv which includes all the starbucs data and location and two geoJson file . 
 
 To check the Folium documentation check - https://python-visualization.github.io/folium/quickstart.html
+
